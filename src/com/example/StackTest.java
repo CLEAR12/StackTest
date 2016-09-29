@@ -1,3 +1,18 @@
+/**
+* Stack Test Sample Program
+* Thus Program implement 4 APIs :
+* isEmpty()
+*peek()
+*pop
+*push
+*git status
+*git add *.java
+*git commit
+*git push
+*
+*@author SHGAN (qpfwm12@gmail.com)
+*@Version 1.0, 26, sep 2016
+*/
 package com.example;
 import com.example.Stack;
 
