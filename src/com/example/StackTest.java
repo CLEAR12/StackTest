@@ -1,4 +1,6 @@
+//TAIL
 /**
+
 * Stack Test Sample Program
 * Thus Program implement 4 APIs :
 * isEmpty()
@@ -11,7 +13,7 @@
 *git push
 *
 *@author SHGAN (qpfwm12@gmail.com)
-*@Version 1.0, 06, out 2016
+*@Version 1.0, 06, out. 2016
 */
 package com.example;
 import com.example.Stack;
